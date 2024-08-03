@@ -547,7 +547,7 @@
 # XXX: quick and dirty but may be fine for our purposes
 (defn uri-to-dir-path
   [uri]
-  (first (peg/match ~(sequence "https://"
+  (first (peg/match ~(sequence (choice "https://" "file:///")
                                (capture (thru -1)))
                     uri)))
 
@@ -556,6 +556,10 @@
   (uri-to-dir-path "https://gitlab.com/louis.jackman/janet-hypertext")
   # =>
   "gitlab.com/louis.jackman/janet-hypertext"
+
+  (uri-to-dir-path "file:///home/user/src/small-peg-tracer")
+  # =>
+  "home/user/src/small-peg-tracer"
 
   )
 
@@ -672,7 +676,23 @@
 # XXX: can make more sophisticated later if needed
 (defn supported-url?
   [candidate]
-  (string/has-prefix? "https://" candidate))
+  (truthy? (peg/match ~(choice "https://" "file:///") candidate)))
+
+(comment
+
+  (supported-url? "https://codeberg.org/sogaiu/margaret")
+  # =>
+  true
+
+  (supported-url? "file:///home/user/src/janet")
+  # =>
+  true
+
+  (supported-url? "ftp://ftp.uio.no")
+  # =>
+  false
+
+  )
 
 ########################################################################
 
