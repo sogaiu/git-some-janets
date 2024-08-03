@@ -379,6 +379,7 @@
   https://github.com/sogaiu/janet-bounds
   https://github.com/sogaiu/janet-checksums
   https://github.com/sogaiu/janet-delims
+  https://github.com/sogaiu/janet-ex-as-tests
   https://github.com/sogaiu/janet-indent
   https://github.com/sogaiu/janet-jsonish
   https://github.com/sogaiu/janet-last-expression
@@ -396,7 +397,6 @@
   https://github.com/sogaiu/janet-tree-sitter
   https://github.com/sogaiu/janet-ts-dsl
   https://github.com/sogaiu/janet-unwrap
-  https://github.com/sogaiu/janet-usages-as-tests
   https://github.com/sogaiu/janet-walk-dir
   https://github.com/sogaiu/janet-xmlish
   https://github.com/sogaiu/janet-zipper
