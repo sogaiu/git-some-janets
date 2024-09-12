@@ -61,7 +61,10 @@
   https://git.sr.ht/~subsetpark/the-brzozowski-variations
   https://git.sr.ht/~subsetpark/whist
   https://github.com/5thWall/shift-brew
+  https://github.com/agent-kilo/janetland
+  https://github.com/agent-kilo/juno
   https://github.com/agent-kilo/jwno
+  https://github.com/agent-kilo/jw32
   https://github.com/ahungry/ahungry_heart
   https://github.com/ahungry/ahungry-janet
   https://github.com/ahungry/ahungry-janet-to-js
@@ -159,6 +162,7 @@
   https://github.com/dfuenzalida/janet-hello-world
   https://github.com/dghaehre/check-duplicate-probability
   https://github.com/dghaehre/fish-env
+  https://github.com/dghaehre/gp-router
   https://github.com/dghaehre/janet-utils
   https://github.com/dghaehre/raspberry-stats
   https://github.com/dghaehre/taskwarriorweb
