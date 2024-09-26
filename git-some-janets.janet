@@ -199,19 +199,24 @@
   https://github.com/heycalmdown/janet-whooing-helper
   https://github.com/iacore/janet-graphical-repl
   https://github.com/ianthehenry/aoc-2023
+  https://github.com/ianthehenry/banquet
   https://github.com/ianthehenry/bauble
   https://github.com/ianthehenry/bauble.studio
+  https://github.com/ianthehenry/bytemap
   https://github.com/ianthehenry/cmd
   https://github.com/ianthehenry/cmp
   https://github.com/ianthehenry/heap
   https://github.com/ianthehenry/janet-clipper
   https://github.com/ianthehenry/janet-cross-compile
+  https://github.com/ianthehenry/janet-midi
+  https://github.com/ianthehenry/janet-module
   https://github.com/ianthehenry/janet-whereami
   https://github.com/ianthehenry/jimmy
   https://github.com/ianthehenry/judge
   https://github.com/ianthehenry/macaroni
   https://github.com/ianthehenry/pat
   https://github.com/ianthehenry/square
+  https://github.com/ianthehenry/steno
   https://github.com/ianthehenry/to-do
   https://github.com/ianthehenry/toodle.studio
   https://github.com/ikarius/bencode
