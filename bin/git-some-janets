@@ -533,6 +533,8 @@
   https://github.com/MikeBeller/janet-benchmarksgame
   https://github.com/MikeBeller/janet-playground
   https://github.com/MikeBeller/janet-set
+  https://github.com/JMinyard1335/Janet-rvars
+  https://github.com/JMinyard1335/Janet-vector
   https://github.com/PaulBatchelor/junt
   https://github.com/PaulBatchelor/weewiki
   https://github.com/Putnam3145/janet-d
