@@ -334,6 +334,9 @@
   https://github.com/quan-nh/sync-run
   https://github.com/rduplain/hosts
   https://github.com/rlonstein/janet-pure-parsers
+  https://github.com/rokf/janet-jwt
+  https://github.com/rokf/janet-resp
+  https://github.com/rokf/janet-rqlite
   https://github.com/roobie/crankshaft
   https://github.com/roobie/maybe
   https://github.com/roobie/redis
