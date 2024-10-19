@@ -496,6 +496,7 @@
   https://github.com/zevv/janet-dns
   https://github.com/zevv/janet-time
   https://github.com/zevv/janetttls
+  https://github.com/AlecTroemel/janet-box2d
   https://github.com/AlecTroemel/craft-bin
   https://github.com/AlecTroemel/janet-chipmunk
   https://github.com/AlecTroemel/janet-physac
