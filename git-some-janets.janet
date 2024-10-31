@@ -334,6 +334,7 @@
   https://github.com/quan-nh/sync-run
   https://github.com/rduplain/hosts
   https://github.com/rlonstein/janet-pure-parsers
+  https://github.com/rokf/janet-datastar
   https://github.com/rokf/janet-jwt
   https://github.com/rokf/janet-resp
   https://github.com/rokf/janet-rqlite
@@ -492,7 +493,6 @@
   https://github.com/yumaikas/LispGameJamAutumn2021
   https://github.com/zacharycarter/voodoo
   https://github.com/zenlor/janet-csv
-  https://github.com/zenlor/links
   https://github.com/zevv/janet-dns
   https://github.com/zevv/janet-time
   https://github.com/zevv/janetttls
@@ -517,7 +517,6 @@
   https://github.com/CFiggers/judge-testing
   https://github.com/CFiggers/juno
   https://github.com/CFiggers/teddy-editor
-  https://github.com/DexterHaslem/narf
   https://github.com/Duncaen/adventofcode-janet
   https://github.com/Duncaen/dhall-janet
   https://github.com/GrayJack/Advent-Of-Code
