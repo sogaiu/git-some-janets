@@ -336,6 +336,7 @@
   https://github.com/rlonstein/janet-pure-parsers
   https://github.com/rokf/janet-datastar
   https://github.com/rokf/janet-jwt
+  https://github.com/rokf/janet-lucide
   https://github.com/rokf/janet-resp
   https://github.com/rokf/janet-rqlite
   https://github.com/roobie/crankshaft
@@ -433,6 +434,7 @@
   https://github.com/staab/janet-pseudo-set
   https://github.com/staab/janet-schema
   https://github.com/staab/janet-util
+  https://github.com/strangepete/janet-libMPSSE
   https://github.com/subsetpark/janet-cells
   https://github.com/subsetpark/janet-dtgb
   https://github.com/subsetpark/pantagruel
