@@ -561,6 +561,48 @@
 
 ########################################################################
 
+(def usage
+  `````
+  Usage: git-some-janets NUMBER [STRING]
+         git-some-janets STRING [NUMBER]
+
+  Fetch some janet-related git repositories.
+
+  Examples:
+
+    # fetch 2 janet-related repositories
+    git-some-janets 2
+
+    # fetch janet-related repositories whose urls contain "bakpakin"
+    git-some-janets bakpakin
+
+    # fetch 3 janet-related repositories whose urls contain "chambers"
+    git-some-janets chambers 3
+    git-some-janets 3 chambers
+
+  Parameters:
+
+    NUMBER   maximum number of repositories to fetch (<= 0 means all
+             remaining)
+
+    STRING   used to match (substring) which repositories to fetch
+             (STRING should not represent a number according to
+             janet's `scan-number`)
+
+  With NUMBER as the first argument, fetch NUMBER repositories (see
+  above for what a non-positive NUMBER means).  If STRING is specified
+  as a second argument, fetch up to NUMBER repositories (inclusive)
+  whose urls contain STRING as a substring.
+
+  With STRING as the first argument, fetch repositories whose urls
+  contain STRING as a substring.  If NUMBER is specified as a second
+  argument, fetch up to NUMBER repositories (inclusive) whose urls
+  contain STRING as a substring (see above for what a non-positive
+  NUMBER means).
+  `````)
+
+########################################################################
+
 # XXX: quick and dirty but may be fine for our purposes
 (defn uri-to-dir-path
   [uri]
@@ -666,7 +708,7 @@
 (defn choose-n-urls
   [urls n]
   (def actual-n (min n (length urls)))
-  (if (neg? n)
+  (if (<= n 0)
     urls
     (choose-n urls actual-n (math/rng (os/cryptorand 8)))))
 
@@ -752,13 +794,43 @@
 
 ########################################################################
 
+(defn handle-args
+  [args]
+  # XXX: when invoked from the command line, cannot have less than one
+  #      argument
+  (when (zero? (length args))
+    (eprint "expected at least one command line argument")
+    (os/exit 1))
+
+  (when (one? (length args))
+    (print usage)
+    (os/exit 0))
+
+  (def first-arg (get args 1))
+  (def second-arg (get args 2))
+
+  (if (not (nil? second-arg))
+    # there were at least two arguments
+    (do
+      (def cla-1-num (scan-number first-arg))
+      (def cla-2-num (scan-number second-arg))
+      (when (and cla-1-num cla-2-num)
+        (eprintf "first two arguments should not both be numeric")
+        (os/exit 1))
+      (if (number? cla-1-num)
+        [cla-1-num second-arg]
+        [cla-2-num first-arg]))
+    # there was only one argument
+    (if-let [cla-n (scan-number first-arg)]
+      [cla-n nil]
+      [-1 first-arg])))
+
+########################################################################
+
 (defn main
   [& args]
-  (def n
-    (if (> (length args) 1)
-      (scan-number (get args 1))
-      10))
-  #
+  (def [cla-n cla-substr] (handle-args args))
+
   (def repos-name (find-repos-name))
   (assert repos-name "failed to determine repos-name")
   (os/mkdir repos-name)
@@ -769,21 +841,25 @@
   (def urls (find-all-urls))
   (assert urls "failed to get list of urls")
   #
+  (def substr
+    (if (nil? cla-substr)
+      (find-substr)
+      cla-substr))
+  #
   (def peg (find-peg))
-  (def substr (find-substr))
   #
   (def matched-urls
     (cond
-      peg
-      (filter |(peg/match peg $) urls)
-      #
       substr
       (filter |(string/find substr $) urls)
+      #
+      peg
+      (filter |(peg/match peg $) urls)
       #
       urls))
   #
   (def results @{})
-  (def target-urls (choose-n-urls matched-urls n))
+  (def target-urls (choose-n-urls matched-urls cla-n))
   (each url target-urls
     (def exit-code (git-shallow-clone repos-name url))
     (def urls-for-code
