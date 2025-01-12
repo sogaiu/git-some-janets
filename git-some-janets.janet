@@ -144,6 +144,7 @@
   https://github.com/cfoust/cy
   https://github.com/chazu/jetris
   https://github.com/chris-chambers/effuse
+  https://github.com/cideM/aoc2024-janet
   https://github.com/cmiles74/bencode
   https://github.com/coast-framework/coast-cli
   https://github.com/corasaurus-hex/isatty
