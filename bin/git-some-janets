@@ -182,6 +182,7 @@
   https://github.com/felixr/advent-of-code
   https://github.com/felixr/janet-benchmarks
   https://github.com/felixr/janet-notes
+  https://github.com/gamma-delta/coq-build-toolkit
   https://github.com/good-place/chidi
   https://github.com/good-place/mansion
   https://github.com/good-place/neil
@@ -340,6 +341,7 @@
   https://github.com/rokf/janet-lucide
   https://github.com/rokf/janet-resp
   https://github.com/rokf/janet-rqlite
+  https://github.com/rokf/janet-tile38
   https://github.com/roobie/crankshaft
   https://github.com/roobie/maybe
   https://github.com/roobie/redis
@@ -365,6 +367,7 @@
   https://github.com/saikyun/janet-namespaces
   https://github.com/saikyun/janet-profiling
   https://github.com/saikyun/janet-whereami
+  https://github.com/saikyun/pixel-editor
   https://github.com/saikyun/survival-horror
   https://github.com/saikyun/text-adventure
   https://github.com/saikyun/text-experiment
@@ -446,6 +449,7 @@
   https://github.com/swlkr/reddit-tiktok
   https://github.com/swlkr/speakeasy
   https://github.com/swlkr/sqlheavy
+  https://github.com/swlkr/stripe-janet
   https://github.com/swlkr/tw
   https://github.com/sysread/skewheap-janet
   https://github.com/tantona/janetroids
