@@ -482,10 +482,12 @@
   https://github.com/yumaikas/cartnet
   https://github.com/yumaikas/chrono
   https://github.com/yumaikas/eye
+  https://github.com/yumaikas/dirx
   https://github.com/yumaikas/jagged-scraps
   https://github.com/yumaikas/janet-datex
   https://github.com/yumaikas/janet-errs
   https://github.com/yumaikas/janet-globals
+  https://github.com/yumaikas/janet-peg-playground
   https://github.com/yumaikas/janet-pkg-lint
   https://github.com/yumaikas/janet-stringx
   https://github.com/yumaikas/janet-tempfiles
