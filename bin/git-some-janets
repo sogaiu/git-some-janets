@@ -22,9 +22,9 @@
   https://git.sr.ht/~nullevoid/jermbox
   https://git.sr.ht/~nullevoid/jlzf
   https://git.sr.ht/~pepe/andy
+  https://git.sr.ht/~pepe/bearimy
   https://git.sr.ht/~pepe/best-self
   https://git.sr.ht/~pepe/bonzer
-  https://git.sr.ht/~pepe/bearimy
   https://git.sr.ht/~pepe/breakout
   https://git.sr.ht/~pepe/chidi
   https://git.sr.ht/~pepe/eleanor
@@ -61,14 +61,70 @@
   https://git.sr.ht/~subsetpark/the-brzozowski-variations
   https://git.sr.ht/~subsetpark/whist
   https://github.com/5thWall/shift-brew
+  https://github.com/AlecTroemel/craft-bin
+  https://github.com/AlecTroemel/janet-box2d
+  https://github.com/AlecTroemel/janet-chipmunk
+  https://github.com/AlecTroemel/janet-physac
+  https://github.com/AlecTroemel/junk-drawer
+  https://github.com/AlecTroemel/phalanx-core
+  https://github.com/Alligator/termbox-janet
+  https://github.com/Andriamanitra/jgamet
+  https://github.com/CFiggers/arcdown
+  https://github.com/CFiggers/janet-bluesky
+  https://github.com/CFiggers/janet-libcurl
+  https://github.com/CFiggers/janet-lsp
+  https://github.com/CFiggers/janet-termios
+  https://github.com/CFiggers/jayson
+  https://github.com/CFiggers/jgraph
+  https://github.com/CFiggers/joule-editor
+  https://github.com/CFiggers/journo
+  https://github.com/CFiggers/judge-testing
+  https://github.com/CFiggers/juno
+  https://github.com/CFiggers/teddy-editor
+  https://github.com/ChanderG/jane
+  https://github.com/CubicMelon/janet-tic80-module
+  https://github.com/Duncaen/adventofcode-janet
+  https://github.com/Duncaen/dhall-janet
+  https://github.com/GrayJack/Advent-Of-Code
+  https://github.com/GrayJack/janet-str-ext
+  https://github.com/GrayJack/rust-janet-module-template
+  https://github.com/Holmqvist1990/choosing-a-scripting-language
+  https://github.com/JMinyard1335/Janet-rvars
+  https://github.com/JMinyard1335/Janet-vector
+  https://github.com/Jakski/janet-base64.git
+  https://github.com/JohnDoneth/janet-language-server
+  https://github.com/LeviSchuck/janet-code
+  https://github.com/LeviSchuck/janet-sigv4
+  https://github.com/LeviSchuck/janetjose
+  https://github.com/LeviSchuck/janetls
+  https://github.com/Luexa/jvs
+  https://github.com/Luexa/otable
+  https://github.com/MaxGyver83/janet-good-repl
+  https://github.com/MikeBeller/janet-abstract
+  https://github.com/MikeBeller/janet-benchmarksgame
+  https://github.com/MikeBeller/janet-playground
+  https://github.com/MikeBeller/janet-set
+  https://github.com/PaulBatchelor/junt
+  https://github.com/PaulBatchelor/weewiki
+  https://github.com/Putnam3145/janet-d
+  https://github.com/RayMPerry/kitchen-sink
+  https://github.com/RebelPotato/youtube-subs
+  https://github.com/Ruin0x11/janet-shiori
+  https://github.com/Techcable/janet-json-pure
+  https://github.com/Techcable/janet-msgpack
+  https://github.com/Techcable/janet-sfmt
+  https://github.com/Techcable/latex2Mathematica
+  https://github.com/Yzupnick/example-janet2nix
+  https://github.com/Yzupnick/janet2nix
+  https://github.com/ZhanZ12/JanetAdventureGame
   https://github.com/agent-kilo/janetland
   https://github.com/agent-kilo/juno
-  https://github.com/agent-kilo/jwno
   https://github.com/agent-kilo/jw32
-  https://github.com/ahungry/ahungry_heart
+  https://github.com/agent-kilo/jwno
   https://github.com/ahungry/ahungry-janet
   https://github.com/ahungry/ahungry-janet-to-js
   https://github.com/ahungry/ahungry-janet-user
+  https://github.com/ahungry/ahungry_heart
   https://github.com/ahungry/com.ahungry.crypt.aws4
   https://github.com/ahungry/com.ahungry.crypt.jwt
   https://github.com/ahungry/emscripten-tinkering
@@ -83,7 +139,6 @@
   https://github.com/andrewchambers/hermes
   https://github.com/andrewchambers/hm
   https://github.com/andrewchambers/hpkg
-  https://github.com/andrewchambers/janetsh
   https://github.com/andrewchambers/janet-ahttp
   https://github.com/andrewchambers/janet-bare1
   https://github.com/andrewchambers/janet-base16
@@ -118,6 +173,7 @@
   https://github.com/andrewchambers/janet-where-defined
   https://github.com/andrewchambers/janet-xcore
   https://github.com/andrewchambers/janet-yacc
+  https://github.com/andrewchambers/janetsh
   https://github.com/andrewchambers/jfmt
   https://github.com/andrewchambers/jpm-to-hermes
   https://github.com/andrewchambers/plumbtool
@@ -153,7 +209,6 @@
   https://github.com/cosmictoast/janet-date
   https://github.com/cosmictoast/janet-kargs
   https://github.com/cosmictoast/jurl
-  https://github.com/CubicMelon/janet-tic80-module
   https://github.com/czkz/janet-evemu
   https://github.com/dabeaz/ranet
   https://github.com/dalygbarron/kowari
@@ -161,6 +216,8 @@
   https://github.com/danielschleindlsperger/atobtoa
   https://github.com/danielschleindlsperger/speed-series
   https://github.com/dawranliou/vigilant-ducky
+  https://github.com/dbridges/janet-util
+  https://github.com/dbridges/jty
   https://github.com/dfuenzalida/janet-hello-world
   https://github.com/dghaehre/check-duplicate-probability
   https://github.com/dghaehre/fish-env
@@ -170,8 +227,6 @@
   https://github.com/dghaehre/taskwarriorweb
   https://github.com/dghaehre/todo
   https://github.com/dghaehre/todoist-history
-  https://github.com/dbridges/janet-util
-  https://github.com/dbridges/jty
   https://github.com/disruptek/jay
   https://github.com/disruptek/slay-ir
   https://github.com/dlisboa/janet-slog
@@ -179,10 +234,10 @@
   https://github.com/dressupgeekout/janet-linenoise
   https://github.com/eko234/janet-html
   https://github.com/escherize/janet-survivors
-  https://github.com/funatsufumiya/janet-interactive-repl-demos
   https://github.com/felixr/advent-of-code
   https://github.com/felixr/janet-benchmarks
   https://github.com/felixr/janet-notes
+  https://github.com/funatsufumiya/janet-interactive-repl-demos
   https://github.com/gamma-delta/coq-build-toolkit
   https://github.com/good-place/chidi
   https://github.com/good-place/mansion
@@ -192,8 +247,8 @@
   https://github.com/good-place/trolley
   https://github.com/goto-engineering/blackjack
   https://github.com/goto-engineering/jack
-  https://github.com/greenfork/thehouse
   https://github.com/greenfork/jzignet
+  https://github.com/greenfork/thehouse
   https://github.com/gwegash/trane
   https://github.com/hackberrydev/alas
   https://github.com/heyarne/arylic-uart-tcp-cli
@@ -259,12 +314,13 @@
   https://github.com/joy-framework/halo2
   https://github.com/joy-framework/http
   https://github.com/joy-framework/joy
-  https://github.com/joy-framework/joyframework.com
   https://github.com/joy-framework/joy-framework.github.io
+  https://github.com/joy-framework/joyframework.com
   https://github.com/joy-framework/moondown
   https://github.com/joy-framework/suresql
   https://github.com/joy-framework/tester
   https://github.com/joy-framework/uuid
+  https://github.com/k-nrd/tj
   https://github.com/kamisori/obsidian-janet
   https://github.com/kamisori/wjpu
   https://github.com/katafrakt/isjanetthereyet
@@ -275,7 +331,6 @@
   https://github.com/kongeor/skolio
   https://github.com/kuettler/janet-base58
   https://github.com/kuettler/jmp
-  https://github.com/k-nrd/tj
   https://github.com/leahneukirchen/literate-janet
   https://github.com/levitanong/jdn-loader
   https://github.com/llmII/jlogger
@@ -362,8 +417,8 @@
   https://github.com/saikyun/freja-parses-janet
   https://github.com/saikyun/freja-proto
   https://github.com/saikyun/janet-binary-search-comparison
-  https://github.com/saikyun/janet-find-in-files
   https://github.com/saikyun/janet-bounded-queue
+  https://github.com/saikyun/janet-find-in-files
   https://github.com/saikyun/janet-generate-structs
   https://github.com/saikyun/janet-namespaces
   https://github.com/saikyun/janet-profiling
@@ -378,11 +433,11 @@
   https://github.com/samuelludwig/what
   https://github.com/scotthaleen/jhttp
   https://github.com/seletz/janet-fu
+  https://github.com/sepisoad/SubJanet
   https://github.com/sepisoad/jtbox
   https://github.com/sepisoad/jurl
   https://github.com/sepisoad/labgoo
   https://github.com/sepisoad/super-janet-typist
-  https://github.com/sepisoad/SubJanet
   https://github.com/sevanteri/janet-secret
   https://github.com/sevanteri/jopass
   https://github.com/skuzzymiglet/typeup-janet
@@ -476,14 +531,15 @@
   https://github.com/volodymyrpukha/smw
   https://github.com/wooosh/janet-openssl-hash
   https://github.com/xyb3rt/advent-of-code
+  https://github.com/yumaikas/LispGameJamAutumn2021
   https://github.com/yumaikas/add-software-license
   https://github.com/yumaikas/anno
   https://github.com/yumaikas/anno-server
   https://github.com/yumaikas/aoc2020
   https://github.com/yumaikas/cartnet
   https://github.com/yumaikas/chrono
-  https://github.com/yumaikas/eye
   https://github.com/yumaikas/dirx
+  https://github.com/yumaikas/eye
   https://github.com/yumaikas/jagged-scraps
   https://github.com/yumaikas/janet-datex
   https://github.com/yumaikas/janet-errs
@@ -500,67 +556,11 @@
   https://github.com/yumaikas/size
   https://github.com/yumaikas/tally
   https://github.com/yumaikas/trees
-  https://github.com/yumaikas/LispGameJamAutumn2021
   https://github.com/zacharycarter/voodoo
   https://github.com/zenlor/janet-csv
   https://github.com/zevv/janet-dns
   https://github.com/zevv/janet-time
   https://github.com/zevv/janetttls
-  https://github.com/AlecTroemel/janet-box2d
-  https://github.com/AlecTroemel/craft-bin
-  https://github.com/AlecTroemel/janet-chipmunk
-  https://github.com/AlecTroemel/janet-physac
-  https://github.com/AlecTroemel/junk-drawer
-  https://github.com/AlecTroemel/phalanx-core
-  https://github.com/Alligator/termbox-janet
-  https://github.com/Andriamanitra/jgamet
-  https://github.com/ChanderG/jane
-  https://github.com/CFiggers/arcdown
-  https://github.com/CFiggers/janet-bluesky
-  https://github.com/CFiggers/janet-libcurl
-  https://github.com/CFiggers/janet-lsp
-  https://github.com/CFiggers/janet-termios
-  https://github.com/CFiggers/jayson
-  https://github.com/CFiggers/jgraph
-  https://github.com/CFiggers/joule-editor
-  https://github.com/CFiggers/journo
-  https://github.com/CFiggers/judge-testing
-  https://github.com/CFiggers/juno
-  https://github.com/CFiggers/teddy-editor
-  https://github.com/Duncaen/adventofcode-janet
-  https://github.com/Duncaen/dhall-janet
-  https://github.com/GrayJack/Advent-Of-Code
-  https://github.com/GrayJack/janet-str-ext
-  https://github.com/GrayJack/rust-janet-module-template
-  https://github.com/Holmqvist1990/choosing-a-scripting-language
-  https://github.com/Jakski/janet-base64.git
-  https://github.com/JohnDoneth/janet-language-server
-  https://github.com/LeviSchuck/janet-code
-  https://github.com/LeviSchuck/janet-sigv4
-  https://github.com/LeviSchuck/janetjose
-  https://github.com/LeviSchuck/janetls
-  https://github.com/Luexa/jvs
-  https://github.com/Luexa/otable
-  https://github.com/MaxGyver83/janet-good-repl
-  https://github.com/MikeBeller/janet-abstract
-  https://github.com/MikeBeller/janet-benchmarksgame
-  https://github.com/MikeBeller/janet-playground
-  https://github.com/MikeBeller/janet-set
-  https://github.com/JMinyard1335/Janet-rvars
-  https://github.com/JMinyard1335/Janet-vector
-  https://github.com/PaulBatchelor/junt
-  https://github.com/PaulBatchelor/weewiki
-  https://github.com/Putnam3145/janet-d
-  https://github.com/RayMPerry/kitchen-sink
-  https://github.com/RebelPotato/youtube-subs
-  https://github.com/Ruin0x11/janet-shiori
-  https://github.com/Techcable/janet-json-pure
-  https://github.com/Techcable/janet-msgpack
-  https://github.com/Techcable/janet-sfmt
-  https://github.com/Techcable/latex2Mathematica
-  https://github.com/Yzupnick/example-janet2nix
-  https://github.com/Yzupnick/janet2nix
-  https://github.com/ZhanZ12/JanetAdventureGame
   https://gitlab.com/jeannekamikaze/janet-glfw
   https://gitlab.com/louis.jackman/janet-hypertext
   https://notabug.org/debris/lllm-janet
