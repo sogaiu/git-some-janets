@@ -154,6 +154,7 @@
   https://github.com/cosmictoast/janet-kargs
   https://github.com/cosmictoast/jurl
   https://github.com/CubicMelon/janet-tic80-module
+  https://github.com/czkz/janet-evemu
   https://github.com/dabeaz/ranet
   https://github.com/dalygbarron/kowari
   https://github.com/dalygbarron/pingo
