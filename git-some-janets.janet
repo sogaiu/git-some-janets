@@ -198,6 +198,7 @@
   https://github.com/cendyne/little-queue
   https://github.com/cendyne/simple-janet-crypto
   https://github.com/cfoust/cy
+  https://github.com/chamaeleon/janet-bigz
   https://github.com/chazu/jetris
   https://github.com/chris-chambers/effuse
   https://github.com/cideM/aoc2024-janet
