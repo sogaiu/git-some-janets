@@ -371,6 +371,7 @@
   https://github.com/pyrmont/argy-bargy
   https://github.com/pyrmont/arnie
   https://github.com/pyrmont/bencodobi
+  https://github.com/pyrmont/churlish
   https://github.com/pyrmont/claret
   https://github.com/pyrmont/documentarian
   https://github.com/pyrmont/ecstatic
