@@ -200,6 +200,7 @@
   https://github.com/cfoust/cy
   https://github.com/chamaeleon/janet-bigz
   https://github.com/chamaeleon/janet-md5
+  https://github.com/chamaeleon/janet-plplot
   https://github.com/chazu/jetris
   https://github.com/chris-chambers/effuse
   https://github.com/cideM/aoc2024-janet
