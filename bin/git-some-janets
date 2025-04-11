@@ -16,6 +16,7 @@
   https://git.sr.ht/~bakpakin/temple
   https://git.sr.ht/~harryvederci/janet-cgi-example
   https://git.sr.ht/~icylisper/janet-lambda-runtime
+  https://git.sr.ht/~lucasemmoreira/janet-ncurses
   https://git.sr.ht/~maxgyver83/emailbook-janet
   https://git.sr.ht/~nullevoid/args
   https://git.sr.ht/~nullevoid/gapbuffer
@@ -67,7 +68,7 @@
   https://github.com/AlecTroemel/janet-physac
   https://github.com/AlecTroemel/junk-drawer
   https://github.com/AlecTroemel/phalanx-core
-  https://github.com/Alligator/termbox-janet
+  https://github.com/Alligator/jtermbox
   https://github.com/Andriamanitra/jgamet
   https://github.com/CFiggers/arcdown
   https://github.com/CFiggers/janet-bluesky
