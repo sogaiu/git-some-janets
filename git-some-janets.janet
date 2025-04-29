@@ -259,6 +259,7 @@
   https://github.com/heycalmdown/janet-brew-ls
   https://github.com/heycalmdown/janet-notion-helper
   https://github.com/heycalmdown/janet-whooing-helper
+  https://github.com/hl/eden
   https://github.com/iacore/janet-graphical-repl
   https://github.com/ianthehenry/aoc-2023
   https://github.com/ianthehenry/banquet
