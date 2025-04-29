@@ -536,6 +536,7 @@
   https://github.com/turnerdev/janet-cozo
   https://github.com/uvtc/janet-rand
   https://github.com/volodymyrpukha/smw
+  https://github.com/wmealing/janet-joy-live
   https://github.com/wooosh/janet-openssl-hash
   https://github.com/xyb3rt/advent-of-code
   https://github.com/yumaikas/LispGameJamAutumn2021
