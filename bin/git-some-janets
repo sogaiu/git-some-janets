@@ -4,6 +4,7 @@
   ``
   https://codeberg.org/amano.kenji/j3blocks
   https://codeberg.org/amano.kenji/j3blocks-extra
+  https://codeberg.org/ifreund/janet-wayland
   https://git.envs.net/iacore/janet-sibilant-web
   https://git.envs.net/iacore/janet-signal
   https://git.sr.ht/~alect/fantasy-console-carts
@@ -14,7 +15,6 @@
   https://git.sr.ht/~bakpakin/jvk
   https://git.sr.ht/~bakpakin/moogtool
   https://git.sr.ht/~bakpakin/temple
-  https://git.sr.ht/~harryvederci/janet-cgi-example
   https://git.sr.ht/~icylisper/janet-lambda-runtime
   https://git.sr.ht/~lucasemmoreira/janet-ncurses
   https://git.sr.ht/~maxgyver83/emailbook-janet
@@ -359,6 +359,7 @@
   https://github.com/mraveloarinjaka/janet-experiments
   https://github.com/mraveloarinjaka/janet-experiments-native-lib
   https://github.com/newhook/janet-mysql
+  https://github.com/nii236/janet-odin
   https://github.com/ovalnine/advent-of-code
   https://github.com/pauldub/janet-http-client
   https://github.com/pepe/barista
