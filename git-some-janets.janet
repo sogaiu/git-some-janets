@@ -349,6 +349,8 @@
   https://github.com/m7andrew/read-write-http
   https://github.com/maolonglong/janet-yyjson
   https://github.com/meinside/telegram-bot-janet
+  https://github.com/meinside/telegram-janet-repl-bot
+  https://github.com/meinside/httprequest-janet
   https://github.com/ml-2/cannette
   https://github.com/ml-2/purevec
   https://github.com/ml-2/stx
@@ -439,6 +441,7 @@
   https://github.com/samuelludwig/janet-prelude
   https://github.com/samuelludwig/quick-janet-netrepl
   https://github.com/samuelludwig/what
+  https://github.com/sbocq/janet-duckdb
   https://github.com/scotthaleen/jhttp
   https://github.com/seletz/janet-fu
   https://github.com/sepisoad/SubJanet
