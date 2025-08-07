@@ -5,8 +5,11 @@
   https://codeberg.org/amano.kenji/j3blocks
   https://codeberg.org/amano.kenji/j3blocks-extra
   https://codeberg.org/ifreund/janet-wayland
+  https://codeberg.org/veqq/janetdocs
+  https://codeberg.org/veqq/verse-reader
   https://git.envs.net/iacore/janet-sibilant-web
   https://git.envs.net/iacore/janet-signal
+  https://git.sr.ht/~alect/camp-wanna-tya-knot
   https://git.sr.ht/~alect/fantasy-console-carts
   https://git.sr.ht/~alect/jaydate
   https://git.sr.ht/~alect/junk-drawer
@@ -205,6 +208,7 @@
   https://github.com/chazu/jetris
   https://github.com/chris-chambers/effuse
   https://github.com/cideM/aoc2024-janet
+  https://github.com/cideM/janet-hsluv
   https://github.com/cmiles74/bencode
   https://github.com/coast-framework/coast-cli
   https://github.com/corasaurus-hex/isatty
@@ -540,6 +544,7 @@
   https://github.com/turnerdev/janet-cozo
   https://github.com/uvtc/janet-rand
   https://github.com/volodymyrpukha/smw
+  https://github.com/wmealing/hobby-farm
   https://github.com/wmealing/janet-joy-live
   https://github.com/wooosh/janet-openssl-hash
   https://github.com/xyb3rt/advent-of-code
