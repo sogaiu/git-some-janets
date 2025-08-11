@@ -5,12 +5,14 @@
   https://codeberg.org/amano.kenji/j3blocks
   https://codeberg.org/amano.kenji/j3blocks-extra
   https://codeberg.org/ifreund/janet-wayland
+  https://codeberg.org/sarna/djot.janet
   https://codeberg.org/veqq/janetdocs
   https://codeberg.org/veqq/verse-reader
   https://git.envs.net/iacore/janet-sibilant-web
   https://git.envs.net/iacore/janet-signal
   https://git.sr.ht/~alect/camp-wanna-tya-knot
   https://git.sr.ht/~alect/fantasy-console-carts
+  https://git.sr.ht/~alect/janet-dollar-q
   https://git.sr.ht/~alect/jaydate
   https://git.sr.ht/~alect/junk-drawer
   https://git.sr.ht/~alect/secret-santa-jam-2022
@@ -418,6 +420,7 @@
   https://github.com/runejuhl/toggle-leds
   https://github.com/rushsteve1/spinnerette
   https://github.com/rwtolbert/fltk-janet
+  https://github.com/rwtolbert/re-janet
   https://github.com/s-lambert/janet-game
   https://github.com/saikyun/cross
   https://github.com/saikyun/fiery-sara
