@@ -110,6 +110,7 @@
   https://github.com/MikeBeller/janet-benchmarksgame
   https://github.com/MikeBeller/janet-playground
   https://github.com/MikeBeller/janet-set
+  https://github.com/MrWheatley/simple-janet-lsp
   https://github.com/PaulBatchelor/junt
   https://github.com/PaulBatchelor/weewiki
   https://github.com/Putnam3145/janet-d
@@ -399,6 +400,7 @@
   https://github.com/pyrmont/musty
   https://github.com/pyrmont/outfool
   https://github.com/pyrmont/persimmon
+  https://github.com/pyrmont/predoc
   https://github.com/pyrmont/remarkable
   https://github.com/pyrmont/settee
   https://github.com/pyrmont/testament
