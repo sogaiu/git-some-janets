@@ -333,6 +333,7 @@
   https://github.com/joy-framework/tester
   https://github.com/joy-framework/uuid
   https://github.com/k-nrd/tj
+  https://github.com/kamisori/inku
   https://github.com/kamisori/obsidian-janet
   https://github.com/kamisori/wjpu
   https://github.com/katafrakt/isjanetthereyet
