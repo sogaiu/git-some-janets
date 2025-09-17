@@ -57,6 +57,7 @@
   https://git.sr.ht/~rlonstein/janet-pure-parsers
   https://git.sr.ht/~skuzzymiglet/typeup-janet
   https://git.sr.ht/~statianzo/janet-nanoid
+  https://git.sr.ht/~subsetpark/apcl-janet
   https://git.sr.ht/~subsetpark/bagatto
   https://git.sr.ht/~subsetpark/doozer
   https://git.sr.ht/~subsetpark/ec
