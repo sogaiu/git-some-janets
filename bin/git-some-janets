@@ -334,6 +334,8 @@
   https://github.com/joy-framework/suresql
   https://github.com/joy-framework/tester
   https://github.com/joy-framework/uuid
+  https://github.com/jsks/janet-sdbus
+  https://github.com/jsks/janet-timing
   https://github.com/k-nrd/tj
   https://github.com/kamisori/inku
   https://github.com/kamisori/obsidian-janet
