@@ -590,6 +590,7 @@
   https://github.com/zevv/janetttls
   https://gitlab.com/jeannekamikaze/janet-glfw
   https://gitlab.com/louis.jackman/janet-hypertext
+  https://notabug.org/debris/collider-janet
   https://notabug.org/debris/lllm-janet
   ``)
 
