@@ -338,6 +338,7 @@
   https://github.com/jsks/janet-timing
   https://github.com/k-nrd/tj
   https://github.com/kamisori/inku
+  https://github.com/kamisori/janets-peggin-compiler
   https://github.com/kamisori/obsidian-janet
   https://github.com/kamisori/wjpu
   https://github.com/katafrakt/isjanetthereyet
