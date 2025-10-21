@@ -5,8 +5,10 @@
   https://codeberg.org/amano.kenji/j3blocks
   https://codeberg.org/amano.kenji/j3blocks-extra
   https://codeberg.org/ifreund/janet-wayland
+  https://codeberg.org/quexxon/workbench
   https://codeberg.org/sarna/djot.janet
   https://codeberg.org/veqq/deforester
+  https://codeberg.org/veqq/hiccup-lexer
   https://codeberg.org/veqq/janetdocs
   https://codeberg.org/veqq/verse-reader
   https://git.envs.net/iacore/janet-sibilant-web
