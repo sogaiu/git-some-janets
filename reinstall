@@ -1,0 +1,8 @@
+(when (bundle/installed? "git-some-janets")
+  (bundle/uninstall "git-some-janets"))
+
+(assert (not (bundle/installed? "git-some-janets"))
+        "expected git-some-janets to not be installed")
+
+(bundle/install ".")
+
