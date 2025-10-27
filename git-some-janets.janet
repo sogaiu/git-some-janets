@@ -103,6 +103,7 @@
   https://github.com/JMinyard1335/Janet-rvars
   https://github.com/JMinyard1335/Janet-vector
   https://github.com/Jakski/janet-base64.git
+  https://github.com/Jakski/janet-tsort
   https://github.com/JohnDoneth/janet-language-server
   https://github.com/LeviSchuck/janet-code
   https://github.com/LeviSchuck/janet-sigv4
@@ -245,6 +246,7 @@
   https://github.com/dghaehre/todoist-history
   https://github.com/disruptek/jay
   https://github.com/disruptek/slay-ir
+  https://github.com/dlej/janet-heapq
   https://github.com/dlisboa/janet-slog
   https://github.com/dracconi/yanka
   https://github.com/dressupgeekout/janet-linenoise
@@ -530,6 +532,7 @@
   https://github.com/subsetpark/pantagruel
   https://github.com/swlkr/askjanet
   https://github.com/swlkr/janetdocs
+  https://github.com/swlkr/janet-html
   https://github.com/swlkr/osprey
   https://github.com/swlkr/patter
   https://github.com/swlkr/reddit-tiktok
