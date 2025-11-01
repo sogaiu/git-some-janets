@@ -360,7 +360,7 @@
   https://github.com/kuettler/janet-secp256k1
   https://github.com/kuettler/jmp
   https://github.com/leahneukirchen/literate-janet
-  https://github.com/levitanong/jdn-loader
+  https://github.com/livtanong/jdn-loader
   https://github.com/llmII/jlogger
   https://github.com/llmII/jscreenshot
   https://github.com/llmII/jsys
