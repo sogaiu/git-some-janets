@@ -359,7 +359,7 @@
   https://github.com/llmII/jlogger
   https://github.com/llmII/jscreenshot
   https://github.com/llmII/jsys
-  https://github.com/llmII/spawn-utils/
+  https://github.com/llmII/spawn-utils
   https://github.com/m7andrew/biplane
   https://github.com/m7andrew/encode-html
   https://github.com/m7andrew/escape-url
