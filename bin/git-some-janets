@@ -353,6 +353,11 @@
   https://github.com/kmooney/learn-janet
   https://github.com/kongeor/skolio
   https://github.com/kuettler/janet-base58
+  https://github.com/kuettler/janet-gcrypt
+  https://github.com/kuettler/janet-openssl
+  https://github.com/kuettler/janet-ripemd160
+  https://github.com/kuettler/janet-ripple-base58
+  https://github.com/kuettler/janet-secp256k1
   https://github.com/kuettler/jmp
   https://github.com/leahneukirchen/literate-janet
   https://github.com/levitanong/jdn-loader
