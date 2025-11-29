@@ -5,6 +5,7 @@
   https://codeberg.org/amano.kenji/j3blocks
   https://codeberg.org/amano.kenji/j3blocks-extra
   https://codeberg.org/ifreund/janet-wayland
+  https://codeberg.org/ifreund/rijan
   https://codeberg.org/quexxon/workbench
   https://codeberg.org/sarna/djot.janet
   https://codeberg.org/veqq/deforester
@@ -131,6 +132,7 @@
   https://github.com/Yzupnick/janet2nix
   https://github.com/ZhanZ12/JanetAdventureGame
   https://github.com/agent-kilo/janetland
+  https://github.com/agent-kilo/jumper
   https://github.com/agent-kilo/juno
   https://github.com/agent-kilo/jw32
   https://github.com/agent-kilo/jwno
@@ -429,15 +431,18 @@
   https://github.com/rokf/janet-datastar
   https://github.com/rokf/janet-jwt
   https://github.com/rokf/janet-lucide
+  https://github.com/rokf/janet-redka
   https://github.com/rokf/janet-resp
   https://github.com/rokf/janet-rqlite
   https://github.com/rokf/janet-tile38
+  https://github.com/rokf/janet-ulid
   https://github.com/roobie/crankshaft
   https://github.com/roobie/maybe
   https://github.com/roobie/redis
   https://github.com/roobie/sumtype
   https://github.com/runejuhl/toggle-leds
   https://github.com/rushsteve1/spinnerette
+  https://github.com/rwtolbert/adopt-janet
   https://github.com/rwtolbert/fltk-janet
   https://github.com/rwtolbert/janet-native-tools
   https://github.com/rwtolbert/re-janet
