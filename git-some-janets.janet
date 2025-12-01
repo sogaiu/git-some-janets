@@ -422,6 +422,7 @@
   https://github.com/pyrmont/predoc
   https://github.com/pyrmont/remarkable
   https://github.com/pyrmont/settee
+  https://github.com/pyrmont/sled
   https://github.com/pyrmont/testament
   https://github.com/pyrmont/tomlin
   https://github.com/pyrmont/watchful
