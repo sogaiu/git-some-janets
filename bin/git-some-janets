@@ -4,6 +4,9 @@
   ``
   https://codeberg.org/amano.kenji/j3blocks
   https://codeberg.org/amano.kenji/j3blocks-extra
+  https://codeberg.org/desnyca/aluette
+  https://codeberg.org/desnyca/lia
+  https://codeberg.org/desnyca/rejette
   https://codeberg.org/ifreund/janet-wayland
   https://codeberg.org/ifreund/rijan
   https://codeberg.org/quexxon/workbench
