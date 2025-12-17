@@ -411,6 +411,7 @@
   https://github.com/pyrmont/argy-bargy
   https://github.com/pyrmont/arnie
   https://github.com/pyrmont/bencodobi
+  https://github.com/pyrmont/blueshift
   https://github.com/pyrmont/churlish
   https://github.com/pyrmont/claret
   https://github.com/pyrmont/documentarian
@@ -420,6 +421,7 @@
   https://github.com/pyrmont/heroku-buildpack-janet
   https://github.com/pyrmont/is-janet-popular
   https://github.com/pyrmont/jeep
+  https://github.com/pyrmont/kris
   https://github.com/pyrmont/lemongrass
   https://github.com/pyrmont/markable
   https://github.com/pyrmont/medea
