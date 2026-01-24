@@ -2,8 +2,16 @@
 
 (def repo-lines
   ``
+  https://codeberg.org/amano.kenji/buku-fzf
+
   https://codeberg.org/amano.kenji/j3blocks
   https://codeberg.org/amano.kenji/j3blocks-extra
+  https://codeberg.org/amano.kenji/jddclient
+  https://codeberg.org/amano.kenji/janet-repl-tools
+  https://codeberg.org/amano.kenji/simple-dosbox-launcher
+  https://codeberg.org/amano.kenji/termdown-timer
+  https://codeberg.org/amano.kenji/janet-usbguard
+  https://codeberg.org/amano.kenji/janet-utf8
   https://codeberg.org/desnyca/aluette
   https://codeberg.org/desnyca/lia
   https://codeberg.org/desnyca/rejette
