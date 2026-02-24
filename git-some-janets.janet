@@ -17,6 +17,7 @@
   https://codeberg.org/ifreund/janet-wayland
   https://codeberg.org/ifreund/rijan
   https://codeberg.org/quexxon/workbench
+  https://codeberg.org/sarna/colorsis
   https://codeberg.org/sarna/djot.janet
   https://codeberg.org/veqq/deforester
   https://codeberg.org/veqq/hiccup-lexer
@@ -502,6 +503,7 @@
   https://github.com/sevanteri/janet-secret
   https://github.com/sevanteri/jopass
   https://github.com/skuzzymiglet/typeup-janet
+  https://github.com/smartmic/janet-ical-parser
   https://github.com/sogaiu/ajrepl
   https://github.com/sogaiu/babashka-tasks-view
   https://github.com/sogaiu/can-we-do-better
