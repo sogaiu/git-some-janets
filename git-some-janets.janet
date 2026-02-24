@@ -3,7 +3,6 @@
 (def repo-lines
   ``
   https://codeberg.org/amano.kenji/buku-fzf
-
   https://codeberg.org/amano.kenji/j3blocks
   https://codeberg.org/amano.kenji/j3blocks-extra
   https://codeberg.org/amano.kenji/jddclient
