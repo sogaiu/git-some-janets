@@ -7,6 +7,7 @@
   https://codeberg.org/amano.kenji/j3blocks-extra
   https://codeberg.org/amano.kenji/jddclient
   https://codeberg.org/amano.kenji/janet-repl-tools
+  https://codeberg.org/amano.kenji/jopen
   https://codeberg.org/amano.kenji/simple-dosbox-launcher
   https://codeberg.org/amano.kenji/termdown-timer
   https://codeberg.org/amano.kenji/janet-usbguard
@@ -376,6 +377,7 @@
   https://github.com/leahneukirchen/literate-janet
   https://github.com/livtanong/jdn-loader
   https://github.com/livtanong/teller
+  https://github.com/llmII/bulwark
   https://github.com/llmII/janet-assay
   https://github.com/llmII/jlogger
   https://github.com/llmII/jscreenshot
