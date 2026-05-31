@@ -20,6 +20,7 @@
   https://codeberg.org/quexxon/workbench
   https://codeberg.org/sarna/colorsis
   https://codeberg.org/sarna/djot.janet
+  https://codeberg.org/veqq/declarative-dsls
   https://codeberg.org/veqq/deforester
   https://codeberg.org/veqq/hiccup-lexer
   https://codeberg.org/veqq/janetdocs
@@ -282,6 +283,7 @@
   https://github.com/goto-engineering/jack
   https://github.com/greenfork/jzignet
   https://github.com/greenfork/thehouse
+  https://github.com/greenm01/triad
   https://github.com/gwegash/trane
   https://github.com/hackberrydev/alas
   https://github.com/heyarne/arylic-uart-tcp-cli
