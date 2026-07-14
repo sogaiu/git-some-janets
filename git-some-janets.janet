@@ -632,6 +632,8 @@
   https://github.com/zevv/janet-dns
   https://github.com/zevv/janet-time
   https://github.com/zevv/janetttls
+  https://github.com/zzkt/oscule
+  https://github.com/zzkt/phash
   https://gitlab.com/jeannekamikaze/janet-glfw
   https://gitlab.com/louis.jackman/janet-hypertext
   https://notabug.org/debris/collider-janet
