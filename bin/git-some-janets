@@ -96,7 +96,6 @@
   https://github.com/AlecTroemel/phalanx-core
   https://github.com/Alligator/jtermbox
   https://github.com/Andriamanitra/jgamet
-  https://github.com/CFiggers/arcdown
   https://github.com/CFiggers/janet-bluesky
   https://github.com/CFiggers/janet-libcurl
   https://github.com/CFiggers/janet-lsp
@@ -160,7 +159,6 @@
   https://github.com/ahungry/emscripten-tinkering
   https://github.com/ahungry/janet-android
   https://github.com/ahungry/janet-code
-  https://github.com/ahungry/janet-p99-map
   https://github.com/ahungry/janet-pobox
   https://github.com/ahungry/janet-sig-handlers
   https://github.com/ahungry/janet-xbuild
@@ -232,7 +230,6 @@
   https://github.com/chamaeleon/janet-md5
   https://github.com/chamaeleon/janet-plplot
   https://github.com/chazu/jetris
-  https://github.com/chris-chambers/effuse
   https://github.com/cideM/aoc2024-janet
   https://github.com/cideM/janet-hsluv
   https://github.com/cmiles74/bencode
@@ -249,7 +246,6 @@
   https://github.com/dalygbarron/pingo
   https://github.com/danielschleindlsperger/atobtoa
   https://github.com/danielschleindlsperger/speed-series
-  https://github.com/dawranliou/vigilant-ducky
   https://github.com/dbridges/janet-util
   https://github.com/dbridges/jty
   https://github.com/dfuenzalida/janet-hello-world
@@ -635,7 +631,6 @@
   https://github.com/zzkt/oscule
   https://github.com/zzkt/phash
   https://gitlab.com/jeannekamikaze/janet-glfw
-  https://gitlab.com/louis.jackman/janet-hypertext
   https://notabug.org/debris/collider-janet
   https://notabug.org/debris/lllm-janet
   ``)
