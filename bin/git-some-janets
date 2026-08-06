@@ -114,6 +114,7 @@
   https://github.com/GrayJack/Advent-Of-Code
   https://github.com/GrayJack/janet-str-ext
   https://github.com/GrayJack/rust-janet-module-template
+  https://github.com/HParker/janet-asm
   https://github.com/Holmqvist1990/choosing-a-scripting-language
   https://github.com/JMinyard1335/Janet-rvars
   https://github.com/JMinyard1335/Janet-vector
