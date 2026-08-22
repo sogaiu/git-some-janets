@@ -377,6 +377,7 @@
   https://github.com/kuettler/janet-secp256k1
   https://github.com/kuettler/jmp
   https://github.com/leahneukirchen/literate-janet
+  https://github.com/libBeresta/brst-binding-janet
   https://github.com/livtanong/jdn-loader
   https://github.com/livtanong/teller
   https://github.com/llmII/bulwark
