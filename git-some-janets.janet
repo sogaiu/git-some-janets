@@ -2,6 +2,10 @@
 
 (def repo-lines
   ``
+  https://codeberg.org/Fynzhak/carlin
+  https://codeberg.org/Fynzhak/jan
+  https://codeberg.org/Fynzhak/janet-imp
+  https://codeberg.org/Fynzhak/janet-satchel
   https://codeberg.org/amano.kenji/buku-fzf
   https://codeberg.org/amano.kenji/j3blocks
   https://codeberg.org/amano.kenji/j3blocks-extra
