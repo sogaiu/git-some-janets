@@ -285,6 +285,7 @@
   https://github.com/good-place/trolley
   https://github.com/goto-engineering/blackjack
   https://github.com/goto-engineering/jack
+  https://github.com/gouch/janet-docset
   https://github.com/greenfork/jzignet
   https://github.com/greenfork/thehouse
   https://github.com/greenm01/triad
