@@ -22,6 +22,10 @@
   https://codeberg.org/hparker/good
   https://codeberg.org/ifreund/janet-wayland
   https://codeberg.org/ifreund/rijan
+  https://codeberg.org/mlatu/inku
+  https://codeberg.org/mlatu/janets-peggin-compiler
+  https://codeberg.org/mlatu/obsidian-janet
+  https://codeberg.org/mlatu/wjpu
   https://codeberg.org/quexxon/workbench
   https://codeberg.org/sarna/colorsis
   https://codeberg.org/sarna/djot.janet
@@ -364,10 +368,6 @@
   https://github.com/jsks/janet-sdbus
   https://github.com/jsks/janet-timing
   https://github.com/k-nrd/tj
-  https://github.com/kamisori/inku
-  https://github.com/kamisori/janets-peggin-compiler
-  https://github.com/kamisori/obsidian-janet
-  https://github.com/kamisori/wjpu
   https://github.com/katafrakt/isjanetthereyet
   https://github.com/kiedtl/cel7ce
   https://github.com/kiedtl/roguelike
