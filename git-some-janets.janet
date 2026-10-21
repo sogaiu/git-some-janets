@@ -29,6 +29,7 @@
   https://codeberg.org/quexxon/workbench
   https://codeberg.org/sarna/colorsis
   https://codeberg.org/sarna/djot.janet
+  https://codeberg.org/sarna/gregory
   https://codeberg.org/veqq/declarative-dsls
   https://codeberg.org/veqq/deforester
   https://codeberg.org/veqq/hiccup-lexer
@@ -50,6 +51,7 @@
   https://git.sr.ht/~bakpakin/jvk
   https://git.sr.ht/~bakpakin/moogtool
   https://git.sr.ht/~bakpakin/temple
+  https://git.sr.ht/~bhowell/sawpit
   https://git.sr.ht/~icylisper/janet-lambda-runtime
   https://git.sr.ht/~lucasemmoreira/janet-ncurses
   https://git.sr.ht/~maxgyver83/emailbook-janet
