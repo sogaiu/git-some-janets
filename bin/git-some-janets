@@ -643,6 +643,7 @@
   https://github.com/zzkt/minizinc-janet
   https://github.com/zzkt/oscule
   https://github.com/zzkt/phash
+  https://codeberg.org/zzkt/snark
   https://gitlab.com/jeannekamikaze/janet-glfw
   https://notabug.org/debris/collider-janet
   https://notabug.org/debris/lllm-janet
