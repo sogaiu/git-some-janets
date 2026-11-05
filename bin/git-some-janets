@@ -44,6 +44,7 @@
   https://git.sr.ht/~alect/jaydate
   https://git.sr.ht/~alect/junk-drawer
   https://git.sr.ht/~alect/secret-santa-jam-2022
+  https://git.sr.ht/~artemis/geminitext
   https://git.sr.ht/~artemis/j-csv
   https://git.sr.ht/~artemis/j-hall
   https://git.sr.ht/~artemis/raft
